@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MOJA APKA</string>
+    <string name="counter_label">COUNTER:</string>
+    <string name="counter_value">0</string>
+    <string name="increment_btn">INCREMENT</string>
+    <string name="decrement_btn">DECREMENT</string>
+</resources>
